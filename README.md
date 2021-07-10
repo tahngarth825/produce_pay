@@ -1,6 +1,12 @@
-TODO
-how to execute code
+# README
 
+## To Execute Script
+To execute the script, run the following:
+```rb
+ruby script.rb
+```
+It should output before and after grids.
 
-Answer question
-If the following 10x10 grid is Generation 1, what is Generation 20? Provide your answer in any format you like so long as it’s readable. Here is a link to a markdown file with copy/pastable initial data and test cases
+The Bonus question and solution for the 10x10 grid is also in there.
+
+I unfortunately did not get a chance to format it nicely.

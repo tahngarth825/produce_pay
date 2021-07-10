@@ -22,7 +22,7 @@ cell_grid.print_grid
 
 puts "\n"
 
-puts "***For Bonus Question of 10x10 Grid***"
+puts '***For Bonus Question of 10x10 Grid***'
 grid = [
   [nil, nil, nil, nil, nil, nil, nil, nil, nil, nil],
   [nil, nil, 1, 1, nil, nil, nil, nil, nil, nil],
